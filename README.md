@@ -1,4 +1,6 @@
-Landing Page
+view on : https://nirvanacore.github.io/LandingPage-HtmlCss/
+
+Blog Landing Page
 
 -- Blog Page a static web page for a Women's Blog. Using Iframe, making Sticky
 header and footer with different transition for links and buttons. Making
